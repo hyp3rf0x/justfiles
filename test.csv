@@ -1,0 +1,16 @@
+Type,IOC,related Threat Actor,Source
+SHA-1 Hash,00b5ebe5e747a842dec9b3f14f4751452628f1fe,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+SHA-1 Hash,02ffd81484bb92b5689a39abd2a34d833d655266,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+SHA-1 Hash,22f8704b74ce493c01e61ef31a9e177185852437,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+SHA-1 Hash,2d694840c0159387482dc9d7e59217cf1e365027,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+SHA-1 Hash,2f60de5091ab3a0ce5c8f1a27526efba2ad9a5a7,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+SHA-1 Hash,a21d19eb9a90c6b579bce8017769f6f58f9dadb1,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+SHA-1 Hash,b4a9abcaaadd80f0584c79939e79f07cbdd49657,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+SHA-1 Hash,d1b36c9631bcb391bc97a507a92bce90f687440a,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+IP,145.239.85.6,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+IP,195.123.246.14,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+IP,45.129.137.237,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+IP,45.142.213.139,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+IP,78.128.112.139,TA505,https://ti.defender.microsoft.com/articles/babb70f1/public-indicators
+IP,176.121.14.175,TA505,https://ti.defender.microsoft.com/articles/b0669a55/public-indicators
+IP,176.121.14.238,TA505,https://ti.defender.microsoft.com/articles/b0669a55/public-indicators
